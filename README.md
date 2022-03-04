@@ -1,3 +1,5 @@
+
+![igah franklin banner image](https://res.cloudinary.com/dhmvn4nnf/image/upload/v1646417576/web-development-concept_jjovku.jpg)
 <h1 align="center">Hi 👋, I'm Igah Franklin</h1>
 <h3 align="center">A bit of a diverse job history. I've had positions as programming instructor, graphic/web design, web application development, and database management.</h3>
 
