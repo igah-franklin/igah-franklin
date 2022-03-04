@@ -1,6 +1,6 @@
 
 ![igah franklin banner image](https://res.cloudinary.com/dhmvn4nnf/image/upload/v1646419020/download_mnvhay.png)
-<h1 align="center">, Igah Franklin</h1>
+<h1 align="center"> Igah Franklin</h1>
 <h3 align="center">A bit of a diverse job history. I've had positions as programming instructor, graphic/web design, web application development, and database management.</h3>
 
 <h3 align="left">Connect with me:</h3>
